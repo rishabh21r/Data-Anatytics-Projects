@@ -100,13 +100,13 @@ Provides a quick overview of business performance through KPI cards:
 
 ## Main Dashboard
 
-![Main Dashboard](main(1).png)
+![Main Dashboard](./main.png)
 
 ---
 
 ## Profit & Discount Analysis Dashboard
 
-![Secondary Dashboard](secondary(1).png)
+![Secondary Dashboard](./secondary.png)
 
 ---
 
